@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\АОКГ\Работы\LAB_1\Project1\Debug\Project1.exe
+C:\Users\user\Desktop\АОКГ\Работы\LAB_1\Project1\Debug\Project1.pdb
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_1\Project1\Debug\Project1.exe
+C:\Users\user\Desktop\LAB_1\Debug\Project1.exe
+C:\Users\user\Desktop\LAB_1\Debug\Project1.pdb
