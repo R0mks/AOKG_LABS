@@ -7,5 +7,5 @@
 
 ---
 
-> - 01: [LAB_01, Введение в OpenGl, freeglut](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_01)
-> - 02: [LAB_02-03, Размещение объектов, считывание FPS, Вращение/Зум камеры](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_02-03/)(Совмещённые лабораторные в одной работе)
+> - 01: [LAB_01, Введение в OpenGl, freeglut.](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_01)
+> - 02: [LAB_02-03, Размещение объектов, считывание FPS, Вращение/Зум камеры.](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_02-03/)(Совмещённые лабораторные в одной работе)
