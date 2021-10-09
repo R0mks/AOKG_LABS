@@ -1,5 +1,5 @@
 # Лабораторные работы по АОКГ
 Здесь выложены мои работы по предмету: *"Алгоритмические основы компьютерной графики"*
 ### **Список лабораторных работ:**
->1. [LAB_01](https://github.com/R0mks/AOKG_LABS/LAB_01/)
->2. [LAB_02-03](https://github.com/R0mks/AOKG_LABS/LAB_02-03/)(Совмещённые лабораторные в одной работе)
+>1. [LAB_01](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_01)
+>2. [LAB_02-03](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_02-03/)(Совмещённые лабораторные в одной работе)
