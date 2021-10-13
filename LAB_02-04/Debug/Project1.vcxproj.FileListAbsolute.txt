@@ -1,0 +1,9 @@
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_2\Project1\Debug\Project1.exe
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_2(WIP)\Project1\Debug\Project1.exe
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_2-3(WIP)\Project1\Debug\Project1.exe
+C:\Users\user\Desktop\LAB_2-3(WIP)\Project1\Debug\Project1.exe
+C:\Users\user\Desktop\LAB_2-3(WIP)\Project1\Debug\Project1.pdb
+D:\_TEMP\ЧГУ 3 КУРС\АОКГ\Работы\LAB_2-3(WIP)\Project1\Debug\Project1.exe
+D:\_TEMP\ЧГУ 3 КУРС\АОКГ\Работы\LAB_2-3(WIP)\Project1\Debug\Project1.pdb
+F:\_TEMP\ЧГУ 3 КУРС\АОКГ\Работы\LAB_2-3\Project1\Debug\Project1.exe
+E:\_GITHUB\AOKG_LABS\LAB_02-04\Project1\Debug\Project1.exe

@@ -1,0 +1,7 @@
+﻿  Camera.cpp
+E:\_GITHUB\AOKG_LABS\LAB_02-04\Project1\Camera.h(4,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  GObject.cpp
+E:\_GITHUB\AOKG_LABS\LAB_02-04\Project1\GObject.h(4,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  Source.cpp
+E:\_GITHUB\AOKG_LABS\LAB_02-04\Project1\Source.cpp(1,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  Создание кода...
