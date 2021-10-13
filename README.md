@@ -5,4 +5,4 @@
 ## Список лабораторных работ:
 
 > - 01: [LAB_01, Введение в OpenGl, freeglut.](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_01)
-> - 02: [LAB_02-04, Размещение объектов, считывание FPS, Вращение/Зум камеры.](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_02-03/)(Совмещённые лабораторные в одной работе)
+> - 02: [LAB_02-04, Размещение объектов, считывание FPS, Вращение/Зум камеры.](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_02-04/)(Совмещённые лабораторные в одной работе)
