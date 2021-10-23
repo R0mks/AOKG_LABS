@@ -1,5 +1,26 @@
-﻿  Camera.cpp
-  GObject.cpp
-  Source.cpp
-  Создание кода...
-  Project1.vcxproj -> E:\_GITHUB\AOKG_LABS\LAB_02-04\Project1\Debug\Project1.exe
+﻿  CameraFree.cpp
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(29,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(30,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(35,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(36,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(45,39): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(46,22): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(47,42): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(51,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(52,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(55,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(71,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\LAB_02-04\CameraFree.cpp(72,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Project1.vcxproj -> C:\Users\user\Desktop\LAB_02-04\Debug\Project1.exe
