@@ -6,3 +6,4 @@
 
 > - 01: [LAB_01, Введение в OpenGl, freeglut.](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_01)
 > - 02: [LAB_02-04, Размещение объектов, считывание FPS, Вращение/Зум камеры.](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_02-04/)(Совмещённые лабораторные в одной работе)
+> - 03: [LAB_05, Реализация освещения по методу Фонга.](https://github.com/R0mks/AOKG_LABS/tree/main/LAB_05/)
