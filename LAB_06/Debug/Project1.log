@@ -1,0 +1,9 @@
+﻿  MobHead.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_06\MobHead.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_06\MobHead.cpp(16,73): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_06\MobHead.cpp(28,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_06\MobHead.cpp(41,57): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_06\MobHead.cpp(68,77): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_06\MobHead.cpp(118,58): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_06\MobHead.cpp(120,59): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Project1.vcxproj -> E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_06\Debug\Project1.exe
