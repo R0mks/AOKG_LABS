@@ -1,0 +1,80 @@
+﻿  Data.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Data.cpp(60,121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Data.cpp(60,113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Data.cpp(61,121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Data.cpp(61,113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Data.cpp(62,122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Data.cpp(62,114): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Data.cpp(68,103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Data.cpp(68,86): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  GameObjectFactory.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.cpp(50,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  globalFunctions.cpp
+  Camera.cpp
+  CameraFixed.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFixed.cpp(61,50): warning C4244: =: преобразование "GLdouble" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFixed.cpp(62,23): warning C4244: =: преобразование "GLdouble" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFixed.cpp(63,50): warning C4244: =: преобразование "GLdouble" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  CameraFree.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(25,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(26,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(31,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(32,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(41,39): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(42,22): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(43,42): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(47,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(48,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(51,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(66,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\CameraFree.cpp(67,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  GameObject.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObject.cpp(41,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObject.cpp(48,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObject.cpp(80,20): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+  GraphicObject.cpp
+  mesh.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\mesh.cpp(68,67): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  PhongMaterial.cpp
+  Simulation.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Simulation.cpp(87,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Simulation.cpp(88,24): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  Source.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\GameObjectFactory.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Light.cpp
+  projectGlobalConst.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\projectGlobalConst.cpp(26,49): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\projectGlobalConst.cpp(38,49): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  Создание кода...
+  Project1.vcxproj -> E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_08\Debug\Project1.exe
