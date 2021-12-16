@@ -1,0 +1,3 @@
+﻿  mesh.cpp
+E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_07\mesh.cpp(67,67): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Project1.vcxproj -> E:\documents\ЧГУ 3 КУРС\АОКГ\Работы\LAB_07\Debug\Project1.exe
